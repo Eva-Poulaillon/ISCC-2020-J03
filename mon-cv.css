@@ -1,0 +1,28 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    background-color: grey;
+    text-align: left;
+    width: 50%;
+    top: 0;
+    left: 0;
+    height: 180px;
+}
+
+nav{
+    background-color: wheat;
+    width: 50%;
+    text-align: center;
+}
+
+ img{
+     margin: 1%;
+     padding: 1%;
+ }
+
+ h2{
+     width: 50%;
+}
